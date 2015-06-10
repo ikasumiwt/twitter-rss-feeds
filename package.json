@@ -1,0 +1,23 @@
+{
+  "name": "twitter-rss-feeds",
+  "version": "0.0.1",
+  "description": "this is RSS Feeder from tweets including URLs",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ikasumiwt/twitter-rss-feeds"
+  },
+  "keywords": [
+    "twitter",
+    "RSS"
+  ],
+  "author": "ikasumi_wt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ikasumiwt/twitter-rss-feeds/issues"
+  },
+  "homepage": "https://github.com/ikasumiwt/twitter-rss-feeds"
+}
